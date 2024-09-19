@@ -31,7 +31,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Quais as divisões geoeconômicas do Brasil?',
-    'Amazônia, o Nordeste e o Centro-Sul."
+    'Amazônia, o Nordeste e o Centro-Sul.')
 
 criaCartao(
     'Geografia',
