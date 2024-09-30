@@ -77,3 +77,9 @@ footer{
     width: 100%;
     box-sizing: border-box;
 }
+
+.resposta-cartao p{
+    transform: rotateY(180deg);
+    color: var(--cartao-verso);
+    font-weight: 700;
+}
