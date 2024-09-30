@@ -2,7 +2,7 @@
     --fundo: #e2e17f;
     --cartao-frente: #e0dd29;
     --cartao-verso: #ece578;
-    --branco: rgb(241, 241, 233);
+    --branco: white;
     --preto: black;
     --destaque: #e2eeb9; 
 }
