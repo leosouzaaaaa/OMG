@@ -50,7 +50,7 @@ criaCartao(
 
 criaCartao(
     'Matemática',
-    ' A média aritmética das idades de um grupo de 10 amigos é 22 anos. Ao ingressar mais um amigo nesse grupo, a média aritmética passa a ser de 23 anos. A idade do amigo ingressante no grupo, em anos, é?'
+    ' A média aritmética das idades de um grupo de 10 amigos é 22 anos. Ao ingressar mais um amigo nesse grupo, a média aritmética passa a ser de 23 anos. A idade do amigo ingressante no grupo, em anos, é?',
     '33')
 
 criaCartao(
