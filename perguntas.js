@@ -45,55 +45,55 @@ criaCartao(
 
 criaCartao(
     'História',
-    '        ',
-    'resposta')
+    'Tiradentes pode ser considerado o quê?        ',
+    'Líder da inconfidência mineira')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Matemática',
+    ' A média aritmética das idades de um grupo de 10 amigos é 22 anos. Ao ingressar mais um amigo nesse grupo, a média aritmética passa a ser de 23 anos. A idade do amigo ingressante no grupo, em anos, é?'
+    '33')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Matemática',
+    'Qual a representação de função afim?',
+    'f(x) = ax + b')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Língua Portuguesa',
+    'Qual a definição de crase?',
+    'é a contração da preposição a com outro a, que pode ser artigo definido ou pronome demonstrativo (aquela, aquele, aquilo)')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Língua Portuguesa',
+    'O que são conjunções subordinativas concessivas?',
+    'São as conjunções que indicam uma oração em que se admite um fato contrário à ação principal, mas incapaz de impedi-la')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Sociologia',
+    'Qual era a principal proposta sociológica de Karl Marx?',
+    'a luta de classes na sociedade capitalista e como o proletariado acabaria tomando o poder das elites dominantes em todo o mundo')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Sociologia',
+    'Qual a diferença entre solidariedade mecânica e orgânica?',
+    ' a solidariedade mecânica é fundamentada nas tradições, nos hábitos e na moral. Já a solidariedade orgânica é baseada na interdependência gerada pela especialização do trabalho no modo de produção capitalista.')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Filosofia',
+    'Quem é considerado o primeiro filósofo?',
+    'Tales de Mileto')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Filosofia',
+    'Qual era afilosofia de Sócrates?',
+    'acreditava que a melhor forma de transmitir conhecimento era através da troca direta de ideias através de perguntas e respostas entre duas pessoas.')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Artes',
+    'As pirâmides de Quéops, Quéfren e Miquerinos, localizadas em Gizé, as estátuas de Akhenaton e o Templo de Luxor são exemplos de arquitetura e arte relacionados a qual civilização antiga?',
+    'Egípcios')
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Educação Física',
+    ' Assim como outros esportes, o voleibol também possuiu seus fundamentos. Dentre eles, são fundamentos do vôlei:',
+    'Saque, bloqueio e recepção')
