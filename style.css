@@ -1,10 +1,10 @@
 :root{
     --fundo: #e0ffff;
-    --cartao-frente: #e6e6fa;
-    --cartao-verso: #ffdead;
+    --cartao-frente: #0000a5;
+    --cartao-verso: #c97c00;
     --branco: white;
     --preto: black;
-    --destaque: #b0c4de; 
+    --destaque: #304b6e; 
 }
 body{
     background-color: var(--fundo);
@@ -65,7 +65,7 @@ footer{
     font-weight: 700;
 }
 
-.cartao.active.conteudo-cartao{
+.cartao.active .conteudo-cartao{
     transform: rotateY(180deg);
 }
 
