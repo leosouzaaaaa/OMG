@@ -45,7 +45,7 @@ criaCartao(
 
 criaCartao(
     'História',
-    'Tiradentes pode ser considerado o quê?        ',
+    'Tiradentes pode ser considerado o quê?',
     'Líder da inconfidência mineira')
 
 criaCartao(
