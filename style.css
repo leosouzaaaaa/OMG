@@ -2,7 +2,7 @@
     --fundo: #e2e17f;
     --cartao-frente: #e0dd29;
     --cartao-verso: #ece578;
-    --branco: rgb(253, 253, 17);
+    --branco: rgb(241, 241, 233);
     --preto: black;
     --destaque: #e2eeb9; 
 }
@@ -59,6 +59,8 @@ footer{
 .conteudo-cartao p{
     margin-top: 4rem;
     padding: 4rem;
+    margin-top: 4rem;
+    font-size: 1,4vw;
 }
 
 .resposta-cartao p{
