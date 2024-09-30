@@ -4,6 +4,7 @@ function Criacartão (categoria,pergunta,resposta){
     cartao.className = 'RodrigoColorado';
     cartao.innerHTML = `<div class="conteudo-cartao">
    <h3>${categoria}</h3>
+   </div>
    <div class="pergunta-cartao">
     <p>${pergunta}</p>
     </div>
@@ -11,10 +12,10 @@ function Criacartão (categoria,pergunta,resposta){
   <p>${resposta}</p>
    </div>
   </div>`
-
+container.appendChild(cartao);
   let respostaVisivel= false;
 function viraCartao(){
-respostaVisivel=!respostaVisivel;
+ respostaVisivel = !respostaVisivel;
 cartao.classList.toggle('active', respostaVisivel);
 }
 cartao.addEventListener('click', viraCartao);
