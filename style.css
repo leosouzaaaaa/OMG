@@ -58,7 +58,7 @@ footer{
     margin-top: 4rem;
     padding: 4rem;
     margin-top: 4rem;
-    font-size: 1,4vw;
+    font-size: 1.4vw;
 }
 
 .resposta-cartao p{
@@ -67,7 +67,7 @@ footer{
 }
 
 .cartao.active .conteudo-cartao{
-    transform: rotateY(200deg);
+    transform: rotateY(180deg);
 }
 
 .pergunta-cartao,
